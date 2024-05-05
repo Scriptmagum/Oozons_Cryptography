@@ -18,8 +18,8 @@ A step by step series of examples that tell you how to get a development environ
 Clone the repository:
 
 ```bash
-git clone https://github.com/Scriptmagum/Oozons.git
-cd Oozons
+https://github.com/Scriptmagum/Oozons_Cryptography.git
+cd Oozons_Cryptography
 
 
 
